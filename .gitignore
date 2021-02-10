@@ -1,2 +1,4 @@
 venv
 .idea
+teststuff.py
+books/*.pdf
